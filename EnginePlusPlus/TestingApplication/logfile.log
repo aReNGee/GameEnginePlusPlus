@@ -1,4 +1,7 @@
-Wed Sep 13 10:48:10 201 ||| INFO: just thought you should know...
-Wed Sep 13 10:48:10 201 ||| DEBUG: new engine system works
-Wed Sep 13 10:48:10 201 ||| ERROR: huh
-Wed Sep 13 10:48:10 201 ||| CRITICAL ERROR: Critical Error
+Wed Sep 13 16:22:56 201 ||| WARNING: danger will robinson
+Wed Sep 13 16:22:56 201 ||| INFO: just thought you should know...
+Wed Sep 13 16:22:56 201 ||| TRACE: Overwatch
+Wed Sep 13 16:22:56 201 ||| DEBUG: new engine system works
+Wed Sep 13 16:22:56 201 ||| DEBUG: Clock Ready for use!
+Wed Sep 13 16:22:56 201 ||| INFO: 18540.177301
+Wed Sep 13 16:22:56 201 ||| INFO: It has been approximately 5.150049 hours since this computer was turned on.

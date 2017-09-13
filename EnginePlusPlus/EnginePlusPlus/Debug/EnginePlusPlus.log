@@ -1,2 +1,3 @@
-﻿  LogManagerPlusPlus.cpp
+﻿  ClockPlusPlus.cpp
+d:\gamedev\year 3\game engine design\gameengineplusplus\engineplusplus\engineplusplus\clockplusplus.cpp(11): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
   EnginePlusPlus.vcxproj -> D:\GameDev\Year 3\Game Engine Design\GameEnginePlusPlus\EnginePlusPlus\Debug\EnginePlusPlus.lib

@@ -27,12 +27,18 @@
     <ClInclude Include="LogManagerPlusPlus.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ClockPlusPlus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="LogManagerPlusPlus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ClockPlusPlus.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

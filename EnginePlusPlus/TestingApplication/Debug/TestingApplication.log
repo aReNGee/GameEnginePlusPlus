@@ -1,3 +1,4 @@
 ﻿  Main.cpp
+d:\gamedev\year 3\game engine design\gameengineplusplus\engineplusplus\engineplusplus\clockplusplus.cpp(11): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
   TestingApplication.vcxproj -> D:\GameDev\Year 3\Game Engine Design\GameEnginePlusPlus\EnginePlusPlus\Debug\TestingApplication.exe
   TestingApplication.vcxproj -> D:\GameDev\Year 3\Game Engine Design\GameEnginePlusPlus\EnginePlusPlus\Debug\TestingApplication.pdb (Full PDB)
